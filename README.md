@@ -24,7 +24,7 @@ Example images of different categories in ETH80k Fashion dataset that is used fo
 ## Proposed Model
 Architecture for the model
 
-![Model](images/model.jpg)
+![Model](images/model.JPG)
 
 #### Key Features of the Model are :
 * The model and algorithm can work with video directly without having a person pick the best frames to make predictions on.
@@ -34,17 +34,17 @@ Architecture for the model
 ## Results
 
 Some example outputs from our pipeline. On the left-hand side of each example, top 5 predicted labels are shown along with their votes. Ground truth is displayed with green color. In case the ground truth and top-most predicted label differ, red represents the top predicted label.​
-![result](images/result.jpg)
+![result](images/result.JPG)
 
 
 ### Accuracy
 Performance of our model on the test video using different training datasets.​
-![accuracy](images/accuracy.jpg)
+![accuracy](images/accuracy.JPG)
 
 ### Comparisions
  Comparative analysis of experimental results on the DeepFashion dataset. Results from our model are marked in bold.​
 
-![comparisions](images/comparisons.jpg)
+![comparisions](images/comparisons.JPG)
 
 ## Challenges
 * Data Creation: As we did not have the original dataset from the factory floor. We created out own dataset by simulating the inspection table environment.
