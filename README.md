@@ -1,5 +1,8 @@
 # GRINN : Garment Recognition In Neural Networks
 
+## Demo Video
+[![GRINN - Garment Recognition in Neural Networks Demo](http://img.youtube.com/vi/7aY0oYfNxjk/0.jpg)](http://www.youtube.com/watch?v=7aY0oYfNxjk "GRINN - Garment Recognition in Neural Networks Demo")
+
 ## Motivation
 2ULaundry, a company that takes care of your laundry for you, faces a serious problem of customer complaints about “missing” clothes due to lack of proper cataloging. This issue leads to customer’s loss of trust, which can potentially result in losing customers. Hence, we have come up with a solution "GRINN" to efficiently track the category and number of garments for every customer. This computer vision solution will help solve logistics and routing for 2ULaundry.
 
